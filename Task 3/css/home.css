@@ -1,0 +1,54 @@
+body{
+    font:0.8em driod-serif;
+    background-color:rgb(255, 255, 255);
+    }
+    
+    h1, ul{
+    margin:0;
+    padding:0;
+    }
+    .clear{
+     clear:both;
+    }
+    
+    #main {
+    background-color:rgb(255, 255, 255);
+    width:auto;
+    padding:0 auto;
+    margin:0 auto;
+    
+    }
+   
+    
+    #content{
+    
+    width:auto;
+    padding:10PX;
+    background-color:mintcream;
+    }
+    #content h1{
+    font-size:1.6em;
+    }
+    
+    
+    #content {
+    min-height:200px;}
+    
+    
+    
+    
+    .textbb {
+        margin: 5px;
+        padding-left: 0%;
+        width: auto;
+    } h1{
+        color:rgb(0, 2, 128);
+        text-align:center;
+      }
+      .bordered{
+        border: 2px solid rgb(0, 45, 128) ;
+      }
+      table{
+        background-color: "";
+      }
+      
